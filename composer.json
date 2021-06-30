@@ -1,5 +1,5 @@
 {
-   "name":"sudiptpa/ipstack",
+   "name":"actionable-co/ipstack",
    "type":"library",
    "description":"A simple package for IP to Location implementation with PHP.",
    "keywords":[
